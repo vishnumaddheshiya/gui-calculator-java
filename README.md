@@ -2,7 +2,7 @@
 
 A simple and lightweight GUI Calculator built using Java Swing. It performs basic arithmetic operations with a clean interface and real-time expression display. This project is perfect for beginners learning Java GUI and event handling.
 
-##✨ Features
+✨ Features
 
 - Addition, Subtraction, Multiplication, Division
 - Real-time expression display
